@@ -1,0 +1,23 @@
+{
+    "name": "mkanet-theme",
+    "displayName": "MKANET Theme",
+    "description": "Color theme designed from scratch to reduce eye strain",
+    "version": "0.0.2",
+    "publisher": "MKANET",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MKANET",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MKANET-color-theme.json"
+            }
+        ]
+    }
+}
