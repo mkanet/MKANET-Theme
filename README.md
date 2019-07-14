@@ -5,5 +5,6 @@ I decided to create my own gray color theme from scratch to avoid headaches I go
 ## The "ultimate" gray color theme
 
 ![](https://github.com/mkanet/screenshot/blob/master/screenshot1.png./screenshots/screenshot1.png)
+![](https://github.com/mkanet/screenshot/blob/master/screenshot2.png./screenshots/screenshot2.png)
 
 Theme created by: Michael K. Avanessian
