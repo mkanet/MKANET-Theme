@@ -4,8 +4,6 @@
 			"name": "mon_color",
 			"scope": "mcol_D50500FF",
 			"settings": {
-				"background": "#D50500FF",
-				"caret": "#FFFFFFFF",
 				"foreground": "#FFFFFFFF"
 			}
 		},
@@ -13,8 +11,6 @@
 			"name": "mon_color",
 			"scope": "mcol_0000E2FF",
 			"settings": {
-				"background": "#0000E2FF",
-				"caret": "#FFFFFFFF",
 				"foreground": "#FFFFFFFF"
 			}
 		},
@@ -22,15 +18,7 @@
 			"name": "mon_color",
 			"scope": "mcol_000093FF",
 			"settings": {
-				"background": "#000093FF",
-				"caret": "#FFFFFFFF",
 				"foreground": "#FFFFFFFF"
-			}
-		},
-		{
-			"settings": {
-				"background": "#C0C0C0",
-				"foreground": "#000000"
 			}
 		},
 		{
@@ -214,33 +202,6 @@
 			}
 		},
 		{
-			"name": "Invalid trailing whitespace",
-			"scope": "invalid.deprecated.trailing-whitespace",
-			"settings": {
-				"background": "#FFD0D0"
-			}
-		},
-		{
-			"name": "Embedded source",
-			"scope": [
-				"text source",
-				"string.unquoted"
-			],
-			"settings": {
-				"background": "#0000000D"
-			}
-		},
-		{
-			"name": "Embedded embedded source",
-			"scope": [
-				"text source string.unquoted",
-				"text source text source"
-			],
-			"settings": {
-				"background": "#0000000F"
-			}
-		},
-		{
 			"name": "Markup XML declaration",
 			"scope": "meta.tag.preprocessor.xml",
 			"settings": {
@@ -332,7 +293,6 @@
 		"editorCursor.foreground": "#8000FF",
 		"editor.foreground": "#000000",
 		"editorWhitespace.foreground": "#BFBFBF",
-		"editor.lineHighlightBackground": "#00000012",
 		"editor.selectionBackground": "#6BB2FF",
 		"titleBar.activeBackground": "#464646",
         "titleBar.activeForeground": "#CCCCCC",
