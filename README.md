@@ -4,6 +4,6 @@ I decided to create my own gray color theme from scratch to avoid headaches I go
 
 ## The ultimate gray color theme!
 
-![](./screenshots/screenshot1.png)
+![Theme Screenshot](./screenshots/screenshot1.png)
 
 Designer: Michael K. Avanessian
