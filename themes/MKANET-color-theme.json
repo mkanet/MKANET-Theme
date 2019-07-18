@@ -317,7 +317,7 @@
         "sideBarTitle.foreground": "#9E6B1A",
         "sideBar.background": "#0D0D0D",
         "sideBar.foreground": "#a6a6a6",
-        "sideBar.border": "#24005edd",
+        "sideBar.border": "#1c005edd",
         "tab.activeForeground": "#000000",
         "tab.inactiveForeground": "#000000",
         "tab.inactiveBackground": "#8F8F8F",
