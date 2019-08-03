@@ -69,7 +69,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#4949CC"
+				"foreground": "#232EE0"
 			}
 		},
 		{
@@ -83,14 +83,14 @@
 			"name": "User-defined constant",
 			"scope": "constant",
 			"settings": {
-				"foreground": "#AA0041"
+				"foreground": "#af0075"
 			}
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#585CF6"
+				"foreground": "#8087ED"
 			}
 		},
 		{
@@ -162,7 +162,7 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#b6432e"
+				"foreground": "#A30B0B"
 			}
 		},
 		{
@@ -196,7 +196,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#1D4699"
+				"foreground": "#6D79DE"
 			}
 		},
 		{
@@ -308,14 +308,14 @@
 		{
 			"scope": "variable.other.member.powershell",
 			"settings": {
-				"foreground": "#0A7193"
+				"foreground": "#0A749E"
 				//"foreground": "#127799"
 			}
 		},
 		{
 			"scope": "meta.function-call.generic.python",
 			"settings": {
-				"foreground": "#0A7193"
+				"foreground": "#2323E0"
 				//"foreground": "#127799"
 			}
 		},
@@ -337,7 +337,7 @@
 	"colors": {
 		"editor.background": "#C0C0C0",
 		"editorCursor.foreground": "#8000FF",
-		"editor.foreground": "#565672",
+		"editor.foreground": "#515170",
 		"editorWhitespace.foreground": "#BFBFBF",
 		"editor.selectionBackground": "#6BB2FF",
 		"titleBar.activeBackground": "#464646",
