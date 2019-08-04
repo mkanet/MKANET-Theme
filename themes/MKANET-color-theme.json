@@ -90,7 +90,7 @@
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#8087ED"
+				"foreground": "#8183E8"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#700900"
+				"foreground": "#750F00"
 			}
 		},
 		{
@@ -308,7 +308,7 @@
 		{
 			"scope": "variable.other.member.powershell",
 			"settings": {
-				"foreground": "#0A749E"
+				"foreground": "#156D99"
 				//"foreground": "#127799"
 			}
 		},
