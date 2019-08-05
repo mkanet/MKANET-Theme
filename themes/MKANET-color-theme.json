@@ -57,6 +57,12 @@
 			}
 		},
 		{
+			"scope": "keyword.operator.comparison",
+			"settings": {
+				"fontStyle": ""
+			}
+		},
+		{
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
@@ -308,7 +314,7 @@
 		{
 			"scope": "variable.other.member.powershell",
 			"settings": {
-				"foreground": "#156D99"
+				"foreground": "#1d739e"
 				//"foreground": "#127799"
 			}
 		},
