@@ -56,7 +56,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#1931D1"
+				"foreground": "#2323E0"
 			}
 		},
 		{
@@ -296,7 +296,6 @@
 			"scope": "variable.other.member.powershell",
 			"settings": {
 				"foreground": "#1C6D93"
-				//"foreground": "#127799"
 			}
 		},
 		{
