@@ -323,7 +323,7 @@
 	"colors": {
 		"editor.background": "#C0C0C0",
 		"editorCursor.foreground": "#8000FF",
-		"editor.foreground": "#515170",
+		"editor.foreground": "#343457",
 		"editorWhitespace.foreground": "#BFBFBF",
 		"editor.selectionBackground": "#6BB2FF",
 		"titleBar.activeBackground": "#464646",
