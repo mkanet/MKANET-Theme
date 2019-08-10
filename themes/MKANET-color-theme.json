@@ -422,6 +422,7 @@
         "statusBar.background": "#3E3E3E",
 		"statusBar.foreground": "#6AA2E2",
 		"statusBar.noFolderBackground": "#3E3E3E",
+		"tree.indentGuidesStroke": "#494949",
         "list.activeSelectionBackground": "#031626",
         "list.activeSelectionForeground": "#E3E3E3",
         "list.inactiveSelectionBackground": "#031626",
