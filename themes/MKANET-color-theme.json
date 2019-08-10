@@ -323,7 +323,7 @@
 	"colors": {
 		"editor.background": "#C0C0C0",
 		"editorCursor.foreground": "#8000FF",
-		"editor.foreground": "#343457",
+		"editor.foreground": "#464668",
 		"editorWhitespace.foreground": "#BFBFBF",
 		"editor.selectionBackground": "#6BB2FF",
 		"titleBar.activeBackground": "#464646",
@@ -366,7 +366,7 @@
         "input.background": "#bebebe",
         "input.placeholderForeground": "#8695A8",
         "descriptionForeground": "#3e5263",
-        "foreground": "#535353",
+        "foreground": "#000000",
 		"editorGroup.border": "#444444",
         "editorBracketMatch.border": "#93B5BF",
         "editorBracketMatch.background": "#7FAEFF",
