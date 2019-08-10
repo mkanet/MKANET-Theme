@@ -10,7 +10,7 @@
         "url": "https://github.com/mkanet/MKANET-Theme"
     },
     "engines": {
-        "vscode": "^1.35.0"
+        "vscode": "^1.37.0"
     },
     "categories": [
         "Themes"
@@ -19,7 +19,7 @@
         "themes": [
             {
                 "label": "MKANET",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/MKANET-color-theme.json"
             }
         ]
