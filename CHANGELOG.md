@@ -1,5 +1,6 @@
 # Changes
 
+* 0.1.9 - Reverted back to previous Function parameter color
 * 0.1.8 - Modified Function parameter syntax highlighting color
 * 0.1.7 - Color fix for 'Problems' tab introduced in previous update
 * 0.1.6 - Color fixes to accommodate VSCode 1.37.0 (and newer)
